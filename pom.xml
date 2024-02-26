@@ -129,6 +129,9 @@
   </distributionManagement>
 
   <properties>
+
+    <sonar.login>admin</sonar.login>
+    <sonar.password>op14092003</sonar.password>     
     <clirr.comparisonVersion>3.4.6</clirr.comparisonVersion>
 
     <byte-buddy.version>1.14.12</byte-buddy.version>
